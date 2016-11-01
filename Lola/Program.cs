@@ -10,6 +10,7 @@ namespace Lola
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("I am Lola");
         }
     }
 }
