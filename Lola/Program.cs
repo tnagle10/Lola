@@ -11,6 +11,8 @@ namespace Lola
         static void Main(string[] args)
         {
             Console.WriteLine("I am Lola");
+            Console.WriteLine("I eat gluten free");
+
         }
     }
 }
